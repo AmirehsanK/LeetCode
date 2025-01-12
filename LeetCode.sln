@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top Interview 150", "Top Interview 150\Top Interview 150.csproj", "{22AD75D6-2A13-46EA-B1A1-FA13295305F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestArea", "TestArea\TestArea.csproj", "{22217F2C-0A0B-453A-99BF-C64652B712D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22AD75D6-2A13-46EA-B1A1-FA13295305F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AD75D6-2A13-46EA-B1A1-FA13295305F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AD75D6-2A13-46EA-B1A1-FA13295305F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AD75D6-2A13-46EA-B1A1-FA13295305F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22217F2C-0A0B-453A-99BF-C64652B712D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22217F2C-0A0B-453A-99BF-C64652B712D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22217F2C-0A0B-453A-99BF-C64652B712D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22217F2C-0A0B-453A-99BF-C64652B712D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
