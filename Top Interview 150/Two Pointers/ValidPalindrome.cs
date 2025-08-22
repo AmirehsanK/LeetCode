@@ -1,4 +1,4 @@
-﻿namespace Top_Interview_150.Array_String;
+﻿namespace Top_Interview_150.Two_Pointers;
 
 public class ValidPalindrome
 {
