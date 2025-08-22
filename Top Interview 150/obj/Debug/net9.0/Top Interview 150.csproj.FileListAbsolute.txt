@@ -9,3 +9,4 @@ F:\Asp.net\Rider\LeetCode\Top Interview 150\obj\Debug\net9.0\Top Interview 150.d
 F:\Asp.net\Rider\LeetCode\Top Interview 150\obj\Debug\net9.0\refint\Top Interview 150.dll
 F:\Asp.net\Rider\LeetCode\Top Interview 150\obj\Debug\net9.0\Top Interview 150.pdb
 F:\Asp.net\Rider\LeetCode\Top Interview 150\obj\Debug\net9.0\ref\Top Interview 150.dll
+F:\Asp.net\Rider\LeetCode\Top Interview 150\obj\Debug\net9.0\Top Interview 150.sourcelink.json
